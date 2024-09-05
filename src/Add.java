@@ -4,6 +4,6 @@ public class Add {
         int z = a+b+c;
         System.out.println(z);
 
-        System.out.print("Hello");
+
     }
 }
