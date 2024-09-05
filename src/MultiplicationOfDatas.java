@@ -1,4 +1,4 @@
-public class Datatype {
+public class MultiplicationOfDatas {
     public static void main(String[] args){
         int a = 200;
         float b = 12.01f;
