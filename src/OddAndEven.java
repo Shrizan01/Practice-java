@@ -15,8 +15,8 @@ public class OddAndEven {
 }*/
     public static void main(String[] args) {
         int num = 8;
-        String result = (num%2==0)?"even number":"odd number";
+        String result = (num % 2 == 0) ? "even number" : "odd number";
         System.out.println(result);
     }
-    }
 
+}
